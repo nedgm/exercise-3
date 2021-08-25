@@ -2,3 +2,5 @@
 *.user
 .vs/
 *.db
+bin/
+obj/
