@@ -1,1 +1,6 @@
 *.png
+*.user
+.vs/
+*.db
+bin/
+obj/
